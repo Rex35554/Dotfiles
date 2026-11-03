@@ -1,0 +1,24 @@
+{
+  "Applications": [
+    "/home/mosesp/.local/share/applications/appimagekit_441664e9f172777c2f7fddfdee63c28d-Obsidian.desktop",
+    "/usr/share/applications/btop.desktop",
+    "/usr/share/applications/org.gnome.Nautilus.desktop",
+    "/usr/share/applications/net.lutris.Lutris.desktop",
+    "/home/mosesp/.local/share/applications/ai.storyteller.artcraft-launcher.desktop",
+    "/var/lib/flatpak/exports/share/applications/com.rafaelmardojai.Blanket.desktop",
+    "/home/mosesp/.local/share/applications/appimagekit_4717fda73255d419a9ec393694d04ae4-PdfCraft.desktop",
+    "/home/mosesp/.local/share/applications/install4j_12vvrvp-JDownloader2.desktop",
+    "/usr/share/applications/org.qbittorrent.qBittorrent.desktop",
+    "/home/mosesp/.local/share/applications/appimagekit_2d2b3e2a6ecee8504daf28de2ac65d1d-LocalSend.desktop",
+    "/home/mosesp/.local/share/applications/appimagekit_b10c56951793814e3e8cfd4bbe2b819a-ArtCraft_Launcher.desktop",
+    "/usr/share/applications/org.gnome.Boxes.desktop",
+    "/var/lib/flatpak/exports/share/applications/org.gnome.Boxes.desktop",
+    "/home/mosesp/.local/share/flatpak/exports/share/applications/md.obsidian.Obsidian.desktop",
+    "/var/lib/flatpak/exports/share/applications/com.heroicgameslauncher.hgl.desktop",
+    "/usr/share/applications/com.vysp3r.ProtonPlus.desktop",
+    "/home/mosesp/.local/share/applications/appimagekit_b10b72e349b8e8689208b2a051b2af3e-PdfCraft.desktop",
+    "/usr/share/applications/pcmanfm-desktop-pref.desktop",
+    "/usr/share/applications/org.gnome.clocks.desktop",
+    "/usr/share/applications/auto-cpufreq-gtk.desktop"
+  ]
+}
